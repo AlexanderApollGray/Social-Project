@@ -1014,7 +1014,7 @@ function loop() {
   }
 
   if (screen === 'level6') {
-    ctx.drawImage(document.getElementById('win'), (cnv.width / 2) - 150, 100, 280, 200)
+    ctx.drawImage(document.getElementById('win'), (cnv.width / 2) - 150, 100, 380, 200)
   }
   requestAnimationFrame(loop);
 }
