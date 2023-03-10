@@ -1236,7 +1236,7 @@ function puzzle3Setup() {
     platform1.x = 451;
     platform1.y = 180;
     platform1.w = 100;
-    
+
   }
 }
 
